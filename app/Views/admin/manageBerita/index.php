@@ -12,7 +12,7 @@
 <div class="search-element">
     <input class="form-control" type="search" name="keyword" value="<?= $tmp_keyword ?>" placeholder="Search" aria-label="Search" data-width="250">
     <select name="status" class="form-control">
-        <option value="">select status</option>
+        <option value="">select status masak sih</option>
         <?php
             foreach ($base_status as $row) {
                 if($tmp_status == $row){
