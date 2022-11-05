@@ -12,7 +12,7 @@
 <div class="search-element">
     <input class="form-control" type="search" name="keyword" value="<?= $tmp_keyword ?>" placeholder="Search" aria-label="Search" data-width="250">
     <select name="status" class="form-control">
-        <option value="">select status masak sih</option>
+        <option value="">select status</option>
         <?php
             foreach ($base_status as $row) {
                 if($tmp_status == $row){
@@ -38,6 +38,7 @@
 <section class="section">
     <div class="section-header">
         <h1><?= $section_header ?></h1>
+        <p>ini update git yaaa</p>
         
     </div>
 
