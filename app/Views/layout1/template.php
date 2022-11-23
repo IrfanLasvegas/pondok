@@ -242,7 +242,7 @@
 
                     <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
                         <a href="https://getstisla.com/docs" class="btn btn-primary btn-lg btn-block btn-icon-split">
-                            <i class="fas fa-rocket"></i> Upgrade to Pro
+                            <i class="fas fa-rocket"></i> Go to User Page
                         </a>
                     </div>
                 </aside>
@@ -254,7 +254,8 @@
             </div>
             <footer class="main-footer">
                 <div class="footer-left">
-                    Copyright &copy; 2018 <div class="bullet"></div> Design By <a href="https://nauval.in/">Muhamad Nauval Azhar</a>
+                    Copyright &copy; 2018 <div class="bullet"></div> Pondok Darut Thalibin
+                    <!-- Design By <a href="https://nauval.in/">Muhamad Nauval Azhar</a> -->
                 </div>
                 <div class="footer-right">
                     2.3.0
