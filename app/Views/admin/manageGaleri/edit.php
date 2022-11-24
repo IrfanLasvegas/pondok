@@ -22,7 +22,7 @@
     <div class="section-body">
         <div class="card">
             <div class="card-header">
-                <h4>Add New</h4>
+                <h4>Update</h4>
             </div>
             <?php if (!empty(session()->getFlashdata('error2'))) : ?>
                 <div class="alert alert-danger alert-dismissible fade show ml-4 mr-4"  role="alert">                   

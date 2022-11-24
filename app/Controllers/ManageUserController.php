@@ -37,7 +37,7 @@ class ManageUserController extends BaseController
         // $query2 = $model->getUser()->get()->getResult();//tanpa pagination
 
         // $query2 = $model->getUser()->paginate(2,'group_user');
-        $per_page=2;
+        $per_page=8;
         $query2 = $model->getUser($keyword)->paginate($per_page,'group_user');
 
         

@@ -22,7 +22,7 @@ class ManageMahasiswaController extends BaseController
     public function index()
     {
         $keyword = $this->request->getGet('keyword');
-        $per_page=2;
+        $per_page=4;
         $query2 = $this->mahasiswaM->getMahasiswa($keyword)->paginate($per_page,'group_mahasiswa');
         
         $data['title']   = 'Pesantren &mdash; Mahasiswa';

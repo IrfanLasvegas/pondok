@@ -20,7 +20,7 @@ class ManageOrangTuaController extends BaseController
     public function index()
     {
         $keyword = $this->request->getGet('keyword');
-        $per_page=2;
+        $per_page=4;
         $query2 = $this->orangTuaM->getOrangTua($keyword)->paginate($per_page,'group_parent');
         
         $data['title']   = 'Pesantren &mdash; Orang Tua';

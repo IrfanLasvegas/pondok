@@ -37,7 +37,7 @@
 <li class="nav-item dropdown">
     <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="far fa-envelope"></i> <span>Undangan</span></a>
     <ul class="dropdown-menu">
-        <li><a class="nav-link" href="layout-default.html">Saya Meng undang</a></li>
-        <li><a class="nav-link" href="layout-transparent.html">Saya Diundangr</a></li>        
+        <li><a class="nav-link" href="layout-default.html">Set Udangan</a></li>
+        <li><a class="nav-link" href="layout-transparent.html">Riwaya Undangan</a></li>        
     </ul>
 </li>
